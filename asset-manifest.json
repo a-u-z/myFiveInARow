@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myFiveInARow/static/css/main.ddd30b09.chunk.css",
+    "main.js": "/myFiveInARow/static/js/main.159f87a2.chunk.js",
+    "main.js.map": "/myFiveInARow/static/js/main.159f87a2.chunk.js.map",
+    "runtime-main.js": "/myFiveInARow/static/js/runtime-main.52612d57.js",
+    "runtime-main.js.map": "/myFiveInARow/static/js/runtime-main.52612d57.js.map",
+    "static/js/2.127d77f0.chunk.js": "/myFiveInARow/static/js/2.127d77f0.chunk.js",
+    "static/js/2.127d77f0.chunk.js.map": "/myFiveInARow/static/js/2.127d77f0.chunk.js.map",
+    "index.html": "/myFiveInARow/index.html",
+    "static/css/main.ddd30b09.chunk.css.map": "/myFiveInARow/static/css/main.ddd30b09.chunk.css.map",
+    "static/js/2.127d77f0.chunk.js.LICENSE.txt": "/myFiveInARow/static/js/2.127d77f0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/myFiveInARow/static/media/background.09ad4937.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52612d57.js",
+    "static/js/2.127d77f0.chunk.js",
+    "static/css/main.ddd30b09.chunk.css",
+    "static/js/main.159f87a2.chunk.js"
+  ]
+}
